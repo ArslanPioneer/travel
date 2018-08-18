@@ -5,10 +5,8 @@
     <swiper-slide v-for="item of swiperList" :key="item.id">
         <img  class="swiper-img"  :src="item.imgUrl"  />
     </swiper-slide>
-    
-     
     <!-- Optional controls -->
-       <div class="swiper-pagination"  slot="pagination"></div>
+    <div class="swiper-pagination"  slot="pagination"></div>
   </swiper>
  </div>
 </template>
@@ -32,7 +30,7 @@
               },
               {
                   id:'0003',
-                  imgUrl: 'https://dimg04.c-ctrip.com/images/700t0v000000jmr5pAEE9_1920_340_17.jpg'
+                  imgUrl: 'https://imgs.qunarzz.com/p/tts3/201408/09/8fc8e0f20aa09868c8d65eac.jpg_r_390x260x90_cc544545.jpg'
               }]
           }
       }
@@ -50,4 +48,5 @@
         background:#eee
         .swiper-img 
              width:100%
+             
 </style>
