@@ -22,15 +22,15 @@
               },
               swiperList: [{
                   id: '0001',
-                  imgUrl: 'https://dimg04.c-ctrip.com/images/70070q000000go6y6B9EF_1920_340_17.jpg'
+                  imgUrl: '//p.qpic.cn/qqconadmin/0/cf8bf6aac09445e9beb92363e4a0323a/0'
               },
               {
                   id: '0002',
-                  imgUrl: 'https://dimg04.c-ctrip.com/images/700b0u000000jfd8t8637_1920_340_17.jpg'
+                  imgUrl: '//p.qpic.cn/qqconadmin/0/84b4107c553c4000b90048e67483f298/0'
               },
               {
                   id:'0003',
-                  imgUrl: 'https://imgs.qunarzz.com/p/tts3/201408/09/8fc8e0f20aa09868c8d65eac.jpg_r_390x260x90_cc544545.jpg'
+                  imgUrl: 'https://10.url.cn/qqcourse_logo_ng/ajNVdqHZLLB5kjkWicXnjhjPxyDbZK9pEZgUcKoIeGagRGiaX6luBXxBVcFBunic9nccBnmQLzOTd4/510?tp=webp'
               }]
           }
       }
